@@ -23,5 +23,6 @@ public class Dept implements Serializable// entity --orm--- db_table
 		super();
 		this.dname = dname;
 		//TOOD 测试git
-	}
+      //TODO 测试的第二版
+ 	}
 }
